@@ -1,0 +1,11 @@
+C:\Users\Howard\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Howard\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Howard\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Howard\source\repos\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Howard\source\repos\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Howard\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Howard\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Howard\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Howard\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Howard\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Howard\source\repos\ConsoleApp2\bin\Debug\Google.Maps.dll
